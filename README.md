@@ -93,3 +93,5 @@ Reflection Questions:
 3. How did changing the epochs, batch size, or learning rate affect the training results? Using 50 epochs, a batch size of 16, and a learning rate of 0.001 provided stable learning and balanced accuracy.
 4. What challenges did you encounter during dataset collection and labeling? Even though I uploaded 250 images per class, not all of them were included in the training. About 1–10 images per class were missing and were not captured by the system.
 5. If you were to improve your model, what specific changes would you make and why? I would add more images and apply data augmentation to make the model more robust. I would also fine-tune the epochs or learning rate to improve overall accuracy.
+
+Link of 20 plants species (https://drive.google.com/drive/folders/1Yp2hWtGn2xr1V-0AZuKZCoUH9gDqbb3r?usp=drive_link)
