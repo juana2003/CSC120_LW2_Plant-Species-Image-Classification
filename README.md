@@ -18,7 +18,9 @@ B. Plant Species Section
 ![Alt Text](https://github.com/juana2003/Plant-Species-Image-Classification/blob/0cd66d0da878d2658d0cfe12634e0f454021fdff/cactus.jpg)  
 
  Common Name: CACTUS                        
- Scientific Name: Cactaceae                 
+ Scientific Name: Cactaceae      
+
+ ![Alt Text] (https://github.com/juana2003/CSC120_LW2_Plant-Species-Image-Classification/commit/e09d9e3f496a57aa2b042214a52b3616f9378989#diff-a31f4af1f959fceb4e00ffb3ce4fbd9d1adc492a901736bce422c52182639d1dR1)
 
 Description:
 Cacti are a family of succulent plants adapted to survive in dry and arid environments. They store water in their thick, fleshy stems and usually have spines instead of leaves to reduce water
