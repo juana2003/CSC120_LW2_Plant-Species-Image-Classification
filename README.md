@@ -15,7 +15,7 @@ B. Plant Species Section
 
 
 
-![Alt Text](https://github.com/juana2003/Plant-Species-Image-Classification/blob/0cd66d0da878d2658d0cfe12634e0f454021fdff/cactus.jpg)  
+![Alt Text](https://github.com/juana2003/CSC120_LW2_Plant-Species-Image-Classification/blob/42054f4afd11594c672229a32dafbc9aedb8ac46/PlantsSpecies/Cactus.jpg)  
 
  Common Name: CACTUS                        
  Scientific Name: Cactaceae      
