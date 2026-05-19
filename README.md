@@ -34,6 +34,17 @@ B. Plant Species Section
       Description: A medicinal succulent plant widely used for skin treatment, known for its soothing gel inside thick green leaves.
     </td>
   </tr>
+  
+<tr>
+  <td>
+    <img src="https://github.com/juana2003/CSC120_LW2_Plant-Species-Image-Classification/blob/1b5cdb959d1d2193dfe03488e74684245fd48594/PlantsSpecies/Cactus.jpg?raw=true" width="180"/>
+  </td>
+  <td>
+    <b>Cactus</b><br>
+    Scientific Name: Cactaceae<br>
+    Description: A drought-adapted succulent plant family known for storing water in thick stems and having spines instead of leaves to reduce water loss and survive in extreme desert environments.
+  </td>
+</tr>
 
   <tr>
     <td><img src="https://github.com/juana2003/CSC120_LW2_Plant-Species-Image-Classification/blob/4a0ff8954e04f1000c4c5580edddd2d009e8d18f/PlantsSpecies/Cheesebush.jpg?raw=true" width="180"/></td>
