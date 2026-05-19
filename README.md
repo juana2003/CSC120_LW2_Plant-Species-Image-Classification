@@ -192,66 +192,57 @@ B. Plant Species Section
 
 Link of 20 plants species (https://drive.google.com/drive/folders/1Yp2hWtGn2xr1V-0AZuKZCoUH9gDqbb3r?usp=drive_link)
 
-C. Model Training Details
+## C. Model Training Details
 
-![Alt Text](https://github.com/juana2003/Plant-Species-Image-Classification/blob/dc8648829c45f95ad54643c8f2a3a2453a4b0d08/Training%20Model%20.jpg)
+<img src="https://github.com/juana2003/Plant-Species-Image-Classification/blob/dc8648829c45f95ad54643c8f2a3a2453a4b0d08/Training%20Model%20.jpg?raw=true" width="500"/>
 
-I chose 50 epochs to ensure that the model has enough opportunities to review and learn the patterns in the dataset without overfitting. 
-This number provides a balance between sufficient learning and efficient training time.
+The model was trained using **50 epochs** to ensure that it has enough opportunities to learn patterns in the dataset without overfitting. This provides a balance between sufficient learning and efficient training time.
 
-The batch size of 16 was selected to balance training speed and accuracy. A moderate batch size allows the model to process a reasonable number of images at a time,
-ensuring stable updates to the model weights while keeping the training process efficient.
+A **batch size of 16** was selected to balance training speed and model stability. It allows the model to process a reasonable number of images at a time, ensuring stable weight updates while keeping training efficient.
 
-The learning rate of 0.001 was chosen because it provides a stable and gradual adjustment to the model’s parameters. This prevents large, 
-unstable updates that could reduce accuracy while allowing the model to converge effectively during training.
+A **learning rate of 0.001** was chosen to ensure gradual and stable updates to the model’s parameters. This helps prevent large unstable updates while allowing the model to converge effectively.
 
-D. Model Evaluation
+---
 
-![Alt Text](https://github.com/juana2003/Plant-Species-Image-Classification/blob/e90648a81bf41ba1ef4eeed4f43ded741fb7a890/Under%20The%20hood.jpg)
+## D. Model Evaluation
 
+<img src="https://github.com/juana2003/Plant-Species-Image-Classification/blob/e90648a81bf41ba1ef4eeed4f43ded741fb7a890/Under%20The%20hood.jpg?raw=true" width="500"/>
 
-E. Model Testing
+This section shows the internal evaluation results of the model, including how it performs during validation and testing phases.
 
-TEST 1
+---
 
-![TEST 1](https://github.com/juana2003/Plant-Species-Image-Classification/blob/3747df3714dc433c80616957b918ca3be18091ab/Preview%20Test%201.jpg)
+## E. Model Testing
 
-TEST 2
+### Test 1
+<img src="https://github.com/juana2003/Plant-Species-Image-Classification/blob/3747df3714dc433c80616957b918ca3be18091ab/Preview%20Test%201.jpg?raw=true" width="400"/>
 
-![TEST 2](https://github.com/juana2003/Plant-Species-Image-Classification/blob/0c60bfd3d8a2af958fd00ad201c199ba980c0e6f/Preview%20Test%202.jpg)
+### Test 2
+<img src="https://github.com/juana2003/Plant-Species-Image-Classification/blob/0c60bfd3d8a2af958fd00ad201c199ba980c0e6f/Preview%20Test%202.jpg?raw=true" width="400"/>
 
-TEST 3
+### Test 3
+<img src="https://github.com/juana2003/Plant-Species-Image-Classification/blob/df17e45506e9a6d85c948c8ee0f86c5dd4c5a6a2/Preview%20Test%203.jpg?raw=true" width="400"/>
 
-![TEST 3](https://github.com/juana2003/Plant-Species-Image-Classification/blob/df17e45506e9a6d85c948c8ee0f86c5dd4c5a6a2/Preview%20Test%203.jpg)
+### Test 4
+<img src="https://github.com/juana2003/Plant-Species-Image-Classification/blob/df17e45506e9a6d85c948c8ee0f86c5dd4c5a6a2/Preview%20Test%204.jpg?raw=true" width="400"/>
 
-TEST 4
+### Test 5
+<img src="https://github.com/juana2003/Plant-Species-Image-Classification/blob/df17e45506e9a6d85c948c8ee0f86c5dd4c5a6a2/Preview%20Test%205.jpg?raw=true" width="400"/>
 
-![TEST 4](https://github.com/juana2003/Plant-Species-Image-Classification/blob/df17e45506e9a6d85c948c8ee0f86c5dd4c5a6a2/Preview%20Test%204.jpg)
+### Test 6
+<img src="https://github.com/juana2003/Plant-Species-Image-Classification/blob/df17e45506e9a6d85c948c8ee0f86c5dd4c5a6a2/Preview%20Test%206.jpg?raw=true" width="400"/>
 
-TEST 5
+### Test 7
+<img src="https://github.com/juana2003/Plant-Species-Image-Classification/blob/df17e45506e9a6d85c948c8ee0f86c5dd4c5a6a2/Preview%20test%207.jpg?raw=true" width="400"/>
 
-![TEST 5](https://github.com/juana2003/Plant-Species-Image-Classification/blob/df17e45506e9a6d85c948c8ee0f86c5dd4c5a6a2/Preview%20Test%205.jpg)
+### Test 8
+<img src="https://github.com/juana2003/Plant-Species-Image-Classification/blob/df17e45506e9a6d85c948c8ee0f86c5dd4c5a6a2/Preview%20Test%208.jpg?raw=true" width="400"/>
 
-TEST 6
+### Test 9
+<img src="https://github.com/juana2003/Plant-Species-Image-Classification/blob/df17e45506e9a6d85c948c8ee0f86c5dd4c5a6a2/Preview%20Test%209.jpg?raw=true" width="400"/>
 
-![TEST 6](https://github.com/juana2003/Plant-Species-Image-Classification/blob/df17e45506e9a6d85c948c8ee0f86c5dd4c5a6a2/Preview%20Test%206.jpg)
-
-TEST 7
-
-![TEST 7](https://github.com/juana2003/Plant-Species-Image-Classification/blob/df17e45506e9a6d85c948c8ee0f86c5dd4c5a6a2/Preview%20test%207.jpg)
-
-TEST 8
-
-![TEST 8](https://github.com/juana2003/Plant-Species-Image-Classification/blob/df17e45506e9a6d85c948c8ee0f86c5dd4c5a6a2/Preview%20Test%208.jpg)
-
-TEST 9
-
-![TEST 9](https://github.com/juana2003/Plant-Species-Image-Classification/blob/df17e45506e9a6d85c948c8ee0f86c5dd4c5a6a2/Preview%20Test%209.jpg)
-
-TEST 10
-
-![TEST 10](https://github.com/juana2003/Plant-Species-Image-Classification/blob/df17e45506e9a6d85c948c8ee0f86c5dd4c5a6a2/Preview%20Test%2010.jpg)
-
+### Test 10
+<img src="https://github.com/juana2003/Plant-Species-Image-Classification/blob/df17e45506e9a6d85c948c8ee0f86c5dd4c5a6a2/Preview%20Test%2010.jpg?raw=true" width="400"/>
 
 
 Reflection Questions:
