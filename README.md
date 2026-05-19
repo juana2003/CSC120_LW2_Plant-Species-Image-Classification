@@ -15,16 +15,182 @@ B. Plant Species Section
 
 
 
-![Alt Text](https://github.com/juana2003/CSC120_LW2_Plant-Species-Image-Classification/blob/42054f4afd11594c672229a32dafbc9aedb8ac46/PlantsSpecies/Cactus.jpg)  
+<table>
 
- Common Name: CACTUS                        
- Scientific Name: Cactaceae      
+  <tr>
+    <td><img src="https://github.com/juana2003/CSC120_LW2_Plant-Species-Image-Classification/blob/42054f4afd11594c672229a32dafbc9aedb8ac46/PlantsSpecies/Agave.jpg?raw=true" width="180"/></td>
+    <td>
+      <b>Agave</b><br>
+      Scientific Name: Agave<br>
+      Description: A drought-resistant succulent known for its thick, spiky leaves that store water and survive in arid desert conditions.
+    </td>
+  </tr>
 
-![My Image](https://drive.google.com/file/d/1Ay5WeG1Td9wECmzSa1gcPQodH9S0Nih4/view?usp=drive_link)
+  <tr>
+    <td><img src="https://github.com/juana2003/CSC120_LW2_Plant-Species-Image-Classification/blob/42054f4afd11594c672229a32dafbc9aedb8ac46/PlantsSpecies/Aloavera.jpg?raw=true" width="180"/></td>
+    <td>
+      <b>Aloe Vera</b><br>
+      Scientific Name: Aloe vera<br>
+      Description: A medicinal succulent plant widely used for skin treatment, known for its soothing gel inside thick green leaves.
+    </td>
+  </tr>
 
-Description:
-Cacti are a family of succulent plants adapted to survive in dry and arid environments. They store water in their thick, fleshy stems and usually have spines instead of leaves to reduce water
-loss and protect against herbivores. Cacti can vary widely in shape, size, and flower color, and they are commonly used for ornamental purposes, landscaping, and sometimes food or medicine.
+  <tr>
+    <td><img src="https://github.com/juana2003/CSC120_LW2_Plant-Species-Image-Classification/blob/4a0ff8954e04f1000c4c5580edddd2d009e8d18f/PlantsSpecies/Cheesebush.jpg?raw=true" width="180"/></td>
+    <td>
+      <b>Cheesebush</b><br>
+      Scientific Name: Ambrosia dumosa<br>
+      Description: A desert shrub adapted to dry environments, often found in sandy soils and known for its strong aromatic scent.
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="https://github.com/juana2003/CSC120_LW2_Plant-Species-Image-Classification/blob/4a0ff8954e04f1000c4c5580edddd2d009e8d18f/PlantsSpecies/DESERMILKWEED.jpg?raw=true" width="180"/></td>
+    <td>
+      <b>Desert Milkweed</b><br>
+      Scientific Name: Asclepias subulata<br>
+      Description: A desert plant that produces milky sap and serves as an important food source for butterflies, especially monarchs.
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="https://github.com/juana2003/CSC120_LW2_Plant-Species-Image-Classification/blob/4a0ff8954e04f1000c4c5580edddd2d009e8d18f/PlantsSpecies/Date%20Palm.jpg?raw=true" width="180"/></td>
+    <td>
+      <b>Date Palm</b><br>
+      Scientific Name: Phoenix dactylifera<br>
+      Description: A tall palm tree cultivated for its sweet edible dates, commonly grown in hot and dry climates.
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="https://github.com/juana2003/CSC120_LW2_Plant-Species-Image-Classification/blob/4a0ff8954e04f1000c4c5580edddd2d009e8d18f/PlantsSpecies/Desert%20Lavender.jpg?raw=true" width="180"/></td>
+    <td>
+      <b>Desert Lavender</b><br>
+      Scientific Name: Hyptis emoryi<br>
+      Description: A fragrant desert shrub with purple flowers that attracts pollinators like bees and butterflies.
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="https://github.com/juana2003/CSC120_LW2_Plant-Species-Image-Classification/blob/4a0ff8954e04f1000c4c5580edddd2d009e8d18f/PlantsSpecies/Desert%20Rose.jpg?raw=true" width="180"/></td>
+    <td>
+      <b>Desert Rose</b><br>
+      Scientific Name: Adenium obesum<br>
+      Description: A beautiful flowering succulent with a thick trunk, known for its pink to red trumpet-shaped flowers.
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="https://github.com/juana2003/CSC120_LW2_Plant-Species-Image-Classification/blob/4a0ff8954e04f1000c4c5580edddd2d009e8d18f/PlantsSpecies/Elephant%20Bush.jpg?raw=true" width="180"/></td>
+    <td>
+      <b>Elephant Bush</b><br>
+      Scientific Name: Portulacaria afra<br>
+      Description: A small-leaved succulent often used as ornamental plant and known for its ability to store large amounts of water.
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="https://github.com/juana2003/CSC120_LW2_Plant-Species-Image-Classification/blob/4a0ff8954e04f1000c4c5580edddd2d009e8d18f/PlantsSpecies/Elephant%20Tree.jpg?raw=true" width="180"/></td>
+    <td>
+      <b>Elephant Tree</b><br>
+      Scientific Name: Bursera microphylla<br>
+      Description: A slow-growing desert tree with thick trunk used for water storage during long dry seasons.
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="https://github.com/juana2003/CSC120_LW2_Plant-Species-Image-Classification/blob/4a0ff8954e04f1000c4c5580edddd2d009e8d18f/PlantsSpecies/Ephedra%20or%20Mormon%20Tea.jpg?raw=true" width="180"/></td>
+    <td>
+      <b>Ephedra (Mormon Tea)</b><br>
+      Scientific Name: Ephedra spp.<br>
+      Description: A desert shrub traditionally used for herbal tea, adapted to survive in harsh dry environments.
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="https://github.com/juana2003/CSC120_LW2_Plant-Species-Image-Classification/blob/4a0ff8954e04f1000c4c5580edddd2d009e8d18f/PlantsSpecies/Ice%20Plant.jpg?raw=true" width="180"/></td>
+    <td>
+      <b>Ice Plant</b><br>
+      Scientific Name: Mesembryanthemum crystallinum<br>
+      Description: A succulent plant with shiny, water-filled cells that look like ice crystals on its surface.
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="https://github.com/juana2003/CSC120_LW2_Plant-Species-Image-Classification/blob/4a0ff8954e04f1000c4c5580edddd2d009e8d18f/PlantsSpecies/Joshua%20Tree.jpg?raw=true" width="180"/></td>
+    <td>
+      <b>Joshua Tree</b><br>
+      Scientific Name: Yucca brevifolia<br>
+      Description: A unique desert tree found in the Mojave Desert, known for its tall branching structure.
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="https://github.com/juana2003/CSC120_LW2_Plant-Species-Image-Classification/blob/4a0ff8954e04f1000c4c5580edddd2d009e8d18f/PlantsSpecies/Living%20Stone.jpg?raw=true" width="180"/></td>
+    <td>
+      <b>Living Stone</b><br>
+      Scientific Name: Lithops spp.<br>
+      Description: A small succulent that mimics stones to avoid predators and survive in dry environments.
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="https://github.com/juana2003/CSC120_LW2_Plant-Species-Image-Classification/blob/4a0ff8954e04f1000c4c5580edddd2d009e8d18f/PlantsSpecies/Misquite.jpg?raw=true" width="180"/></td>
+    <td>
+      <b>Mesquite</b><br>
+      Scientific Name: Prosopis spp.<br>
+      Description: A hardy desert tree that provides shade and food resources in arid regions.
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="https://github.com/juana2003/CSC120_LW2_Plant-Species-Image-Classification/blob/4a0ff8954e04f1000c4c5580edddd2d009e8d18f/PlantsSpecies/Ocotillo.jpg?raw=true" width="180"/></td>
+    <td>
+      <b>Ocotillo</b><br>
+      Scientific Name: Fouquieria splendens<br>
+      Description: A desert plant with long spiny stems that produces bright red flowers after rainfall.
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="https://github.com/juana2003/CSC120_LW2_Plant-Species-Image-Classification/blob/4a0ff8954e04f1000c4c5580edddd2d009e8d18f/PlantsSpecies/Palo%20Verde.jpg?raw=true" width="180"/></td>
+    <td>
+      <b>Palo Verde</b><br>
+      Scientific Name: Parkinsonia spp.<br>
+      Description: A desert tree with green bark that performs photosynthesis even when leaves are absent.
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="https://github.com/juana2003/CSC120_LW2_Plant-Species-Image-Classification/blob/4a0ff8954e04f1000c4c5580edddd2d009e8d18f/PlantsSpecies/RubbitBrush.jpg?raw=true" width="180"/></td>
+    <td>
+      <b>Rabbit Brush</b><br>
+      Scientific Name: Ericameria nauseosa<br>
+      Description: A yellow-flowering shrub that thrives in dry soils and helps stabilize desert landscapes.
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="https://github.com/juana2003/CSC120_LW2_Plant-Species-Image-Classification/blob/4a0ff8954e04f1000c4c5580edddd2d009e8d18f/PlantsSpecies/Snake%20Plant.jpg?raw=true" width="180"/></td>
+    <td>
+      <b>Snake Plant</b><br>
+      Scientific Name: Dracaena trifasciata<br>
+      Description: A popular indoor plant known for its air-purifying ability and upright sword-like leaves.
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="https://github.com/juana2003/CSC120_LW2_Plant-Species-Image-Classification/blob/4a0ff8954e04f1000c4c5580edddd2d009e8d18f/PlantsSpecies/Soap%20Tree%20Yucca.jpg?raw=true" width="180"/></td>
+    <td>
+      <b>Soap Tree Yucca</b><br>
+      Scientific Name: Yucca elata<br>
+      Description: A desert plant used traditionally for soap-making due to its natural saponins.
+    </td>
+  </tr>
+
+</table>
+
+Link of 20 plants species (https://drive.google.com/drive/folders/1Yp2hWtGn2xr1V-0AZuKZCoUH9gDqbb3r?usp=drive_link)
 
 C. Model Training Details
 
@@ -96,4 +262,3 @@ Reflection Questions:
 4. What challenges did you encounter during dataset collection and labeling? Even though I uploaded 250 images per class, not all of them were included in the training. About 1–10 images per class were missing and were not captured by the system.
 5. If you were to improve your model, what specific changes would you make and why? I would add more images and apply data augmentation to make the model more robust. I would also fine-tune the epochs or learning rate to improve overall accuracy.
 
-Link of 20 plants species (https://drive.google.com/drive/folders/1Yp2hWtGn2xr1V-0AZuKZCoUH9gDqbb3r?usp=drive_link)
